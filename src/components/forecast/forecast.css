@@ -52,10 +52,6 @@
     align-items: center;
 }
 
-.daily-details-grid-item:first-child {
-    color: #757575;
-}
-
-.daily-details-grid-item:last-child {
-    color: #212121;
+.label-value {
+    color: #535353;
 }
